@@ -4,7 +4,7 @@ The following project repository is a collection of educational tools for Digita
 
 This repository is under construction.
 
-*Studio Team:*
+**Studio Team:**
   * Elisabeth Øvensen
   * Elisabeth Schanke
   * Lorena Carthy
