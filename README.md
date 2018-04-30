@@ -15,5 +15,9 @@ Our project aim is to better our understanding in our field and get more practic
   * Elisabeth Schanke
   * Lorena Carthy
 
+--------------------------------------------------
+## How to Solve the Challenges:
 
+
+--------------------------------------------------
 *This repository is under construction.*
