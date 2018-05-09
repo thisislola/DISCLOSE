@@ -18,6 +18,11 @@ Our project aim is to better our understanding in our field and get more practic
 --------------------------------------------------
 ## How to Solve the Challenges:
 
+The challenges are to be solved at your own pace and therefore, these are our suggested ways of solvind the challenges: 
+
+1. Download the repository to your machine, using the green button above (Clone or Download)
+2. Unzip the file
+3. Solve the challenges from each folder.
 
 --------------------------------------------------
 *This repository is under construction.*
