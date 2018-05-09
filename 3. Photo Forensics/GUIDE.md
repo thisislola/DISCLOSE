@@ -17,4 +17,4 @@ The purpose of this challenge is to Find the *flag* and the author's
 name and look for any additional challenges. The base of the task is
 the white document.
 
-**Hint:**Tools might need to be revealing.
+**Hint:** Tools might need to be revealing.
