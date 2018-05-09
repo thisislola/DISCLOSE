@@ -34,3 +34,6 @@ There could/will be improvements *after* the assessment.
 In case of errors or comments, please email us at acdll[at]pm[dot]me or leave them in the issues tab. We will try to solve them ASAP. 
 
 These exercises are aimed to the NUC's DF program. 
+
+-------------
+Last Update: May 9th, 2018
